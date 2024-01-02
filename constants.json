@@ -1,0 +1,11 @@
+{ 
+    "URL": "https://test-api.k6.io",
+    "STATUS_200": 200,
+    "FAILED": "failed",
+    "PASSWORD": "mypassword",
+    "STATUS_201_CREATED": 201,
+    "STATUS_204_NO_CONTENT": 204,
+    "FIRST_NAME": "my_name",
+    "LAST_NAME": "last_name",
+    "USERNAME" : "mytests2023@example.com"
+}
