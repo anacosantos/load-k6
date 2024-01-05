@@ -21,7 +21,7 @@ export default function () {
         topping: ['bacon', 'cheese'], 
         delivery: '20:00', 
         comments:'Im hungry'},
-    submitSelector: 'button:contains("Submit order")'
+    submitSelector: 'button:contains("Submit order")'//because the button is: <button>Submit order</button>
     });
     sleep(3);
     // Extract the form data from the response JSON
